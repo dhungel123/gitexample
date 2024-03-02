@@ -14,4 +14,8 @@ class Calculator {
   double div(int a, int b) {
     return a / b;
   }
+
+  int power(int a) {
+    return a * a;
+  }
 }
