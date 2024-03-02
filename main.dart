@@ -6,4 +6,5 @@ void main() {
   print('git example 3');
   print('git 4');
   print('git example 4');
+  print('git example 5');
 }
